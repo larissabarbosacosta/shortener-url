@@ -261,6 +261,20 @@ Com este projeto pratiquei:
 
 ---
 
+## Docker Hub
+
+Imagem publicada:
+
+https://hub.docker.com/repository/docker/laribarbosa/shortener-url
+
+Pull:
+
+```bash
+docker pull laribarbosa/shortener-url:1.0
+```
+
+---
+
 # Próximos passos
 
 - Docker Compose
